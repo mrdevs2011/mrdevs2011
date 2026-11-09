@@ -43,7 +43,7 @@ Servers and helpers that let Claude work with real systems:
 
 ## 🧰 Small tools
 
-[Code Studio](https://studiocode.vercel.app) · [Markdown previewer](https://md-mrdev1.vercel.app) · [RepoZIP](https://repo-zip.vercel.app) · [Subdomain finder](https://subdomen-finder.vercel.app) · [Voice chat rooms](https://ovozlisuhbat.vercel.app) · [Screenshot button](https://github.com/mrdevs2011/screenshot-button)
+[Subdomain finder](https://subdomen-finder.vercel.app) · [Voice chat rooms](https://ovozlisuhbat.vercel.app) · [Screenshot button](https://github.com/mrdevs2011/screenshot-button) · [CodeStream](https://codestreamuz.vercel.app)
 
 ## 🧭 How I work
 
