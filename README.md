@@ -41,9 +41,17 @@ Servers and helpers that let Claude work with real systems:
 - [**mrdrive**](https://github.com/mrdevs2011/mrdrive) — Supabase-backed drive with an MCP server
 - [**claude-skills-mr**](https://github.com/mrdevs2011/claude-skills-mr) · [**uploads**](https://github.com/mrdevs2011/uploads) — my Claude skills and instructions
 
-## 🧰 Small tools
+## ✨ Small projects
 
-[Subdomain finder](https://subdomen-finder.vercel.app) · [Voice chat rooms](https://ovozlisuhbat.vercel.app) · [Screenshot button](https://github.com/mrdevs2011/screenshot-button) · [CodeStream](https://codestreamuz.vercel.app)
+Each one is a **single `index.html`**: no framework, no build step, hosted on Netlify. Click and try.
+
+| | Project | What it does | Try it |
+|---|---|---|---|
+| 🧑‍💻 | **Code Studio Pro** | An in-browser HTML/CSS/JS editor with live preview. Save your snippets or share them publicly. | [![Open](https://img.shields.io/badge/▶_open-codestudio--pro-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://codestudio-pro.netlify.app) |
+| 📦 | **RepoZIP** | Paste a GitHub repository and download it as a ZIP, right from the browser. | [![Open](https://img.shields.io/badge/▶_open-repo--zip-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://repo-zip.netlify.app) |
+| 📝 | **Markdown Live** | Write Markdown and watch it render instantly. One file, zero setup. | [![Open](https://img.shields.io/badge/▶_open-markdown--live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://markdown-live.netlify.app) |
+| 🎨 | **CenteralPIC** | A real-time canvas experiment powered by WebRTC and Firebase. | [![Open](https://img.shields.io/badge/▶_open-centeralpic-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://centeralpic.netlify.app) |
+| 🌌 | **Orbit to Infinity** | An interactive 3D space scene that runs in the browser, built with Three.js. | [![Open](https://img.shields.io/badge/▶_open-orbit--to--infinity-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://orbit-to-infinity.netlify.app) |
 
 ## 🧭 How I work
 
